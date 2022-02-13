@@ -1,1 +1,1 @@
-# Ccolor-Detection-System
+# Color Detection System
